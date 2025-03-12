@@ -26,5 +26,5 @@ Need live support? You can schedule a one-on-one session with a Help Desk specia
 > You'll be able to select a time and briefly describe your issue so we can prepare in advance.
 
 | [📅 Book an Appointment](https://calendar.app.google/qK6fFQLxZuuV78S79) |
-|:------------------------------------------------------------------------:|
+
 
