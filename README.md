@@ -27,4 +27,4 @@ Need live support? You can schedule a one-on-one session with a Help Desk specia
 
 | [📅 Book an Appointment](https://calendar.app.google/qK6fFQLxZuuV78S79) |
 |:------------------------------------------------------------------------:|
-<a href="https://calendar.app.google/qK6fFQLxZuuV78S79" style="background-color:#2ea44f;color:white;padding:10px 16px;border-radius:6px;text-decoration:none;font-weight:bold;">📅 Book an Appointment</a>
+
